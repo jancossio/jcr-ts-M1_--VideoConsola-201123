@@ -1,6 +1,6 @@
 #cuerpo{
     height:90vh;
-    width:202vh;
+    width:202vw;
     display:flex;
     justify-content:center;
     align-content: center;
@@ -8,7 +8,7 @@
 
 #consola{
     background-color: darkcyan;
-    width:50vh;
+    width:50vw;
     border-radius: 15px 15px;
     border-bottom-left-radius: 200px  45px;
     border-bottom-right-radius: 200px  45px;
@@ -22,7 +22,7 @@
     margin-left: 19px;
     margin-top: 20px;
     height: 38vh;
-    width: 45vh;
+    width: 45vw;
     border-radius: 15px 15px;
     border-bottom-left-radius: 175px  20px;
     border-bottom-right-radius: 175px  20px;
@@ -64,7 +64,7 @@
 #main-screen{
     background-color: olivedrab;
     height: 29vh;
-    width: 30vh;
+    width: 30vw;
     border-radius: 3px;
     display: inline-block;
     margin-left: 6px;
@@ -84,7 +84,7 @@
 #panel{
     margin: auto;
     height: 48vh;
-    width: 45vh;
+    width: 45vw;
 }
 
 #pnl-up{
